@@ -43,7 +43,7 @@ B+ Tree index with full ACID transaction support.
 - Durability: WAL persists to disk, replayed on restart
 
 
-Module B: Multi-User Behaviour and Stress Testing
+##Module B: Multi-User Behaviour and Stress Testing
 
 ## Overview
 This module tests how the food delivery system behaves when many users interact with it at the same time. Four experiments were conducted — concurrent usage, race condition, failure simulation, and stress testing.
