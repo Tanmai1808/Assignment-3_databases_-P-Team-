@@ -1,0 +1,51 @@
+[2026-04-02 16:52:28] member_id=25 action=LOGIN table=Sessions record_id=None | partner5 logged in as RestaurantOwner
+[2026-04-02 16:53:09] member_id=6 action=LOGIN table=Sessions record_id=None | Kavya Nair logged in as Customer
+[2026-04-02 16:54:13] member_id=21 action=LOGIN table=Sessions record_id=None | partner1 logged in as RestaurantOwner
+[2026-04-02 16:55:13] member_id=12 action=LOGIN table=Sessions record_id=None | Divya Patel logged in as DeliveryPartner
+[2026-04-02 16:55:59] member_id=13 action=LOGIN table=Sessions record_id=None | Aditya Rao logged in as DeliveryPartner
+[2026-04-02 16:57:37] member_id=6 action=LOGIN table=Sessions record_id=None | Kavya Nair logged in as Customer
+[2026-04-02 16:58:10] member_id=21 action=LOGIN table=Sessions record_id=None | partner1 logged in as RestaurantOwner
+[2026-04-02 17:01:33] member_id=1 action=LOGIN table=Sessions record_id=None | Aarav Sharma logged in as Admin
+[2026-04-02 17:55:58] member_id=6 action=LOGIN table=Sessions record_id=None | Kavya Nair logged in as Customer
+[2026-04-02 17:56:32] member_id=25 action=LOGIN table=Sessions record_id=None | partner5 logged in as RestaurantOwner
+[2026-04-02 17:57:06] member_id=12 action=LOGIN table=Sessions record_id=None | Divya Patel logged in as DeliveryPartner
+[2026-04-02 17:57:23] member_id=12 action=LOGIN table=Sessions record_id=None | Divya Patel logged in as DeliveryPartner
+[2026-04-02 18:06:53] member_id=14 action=LOGIN table=Sessions record_id=None | Neha Kapoor logged in as DeliveryPartner
+[2026-04-02 18:09:12] member_id=12 action=LOGIN table=Sessions record_id=None | Divya Patel logged in as DeliveryPartner
+[2026-04-02 18:13:14] member_id=6 action=LOGIN table=Sessions record_id=None | Kavya Nair logged in as Customer
+[2026-04-02 18:13:36] member_id=25 action=LOGIN table=Sessions record_id=None | partner5 logged in as RestaurantOwner
+[2026-04-02 18:13:54] member_id=12 action=LOGIN table=Sessions record_id=None | Divya Patel logged in as DeliveryPartner
+[2026-04-02 18:21:22] member_id=12 action=LOGIN table=Sessions record_id=None | Divya Patel logged in as DeliveryPartner
+[2026-04-02 18:21:58] member_id=1 action=LOGIN table=Sessions record_id=None | Aarav Sharma logged in as Admin
+[2026-04-02 18:22:07] member_id=1 action=UPDATE table=member record_id=2 | Admin Aarav Sharma updated member_id=2 (role=Customer)
+[2026-04-02 18:23:12] member_id=3 action=LOGIN table=Sessions record_id=None | Rahul Verma logged in as Customer
+[2026-04-02 18:27:40] member_id=12 action=LOGIN table=Sessions record_id=None | Divya Patel logged in as DeliveryPartner
+[2026-04-02 18:37:29] member_id=12 action=LOGIN table=Sessions record_id=None | Divya Patel logged in as DeliveryPartner
+[2026-04-02 19:50:16] member_id=12 action=LOGIN table=Sessions record_id=None | Divya Patel logged in as DeliveryPartner
+[2026-04-02 19:54:43] member_id=12 action=LOGIN table=Sessions record_id=None | Divya Patel logged in as DeliveryPartner
+[2026-04-02 20:09:26] member_id=12 action=LOGIN table=Sessions record_id=None | Divya Patel logged in as DeliveryPartner
+[2026-04-02 20:09:56] member_id=12 action=LOGIN table=Sessions record_id=None | Divya Patel logged in as DeliveryPartner
+[2026-04-02 20:24:18] member_id=12 action=LOGIN table=Sessions record_id=None | Divya Patel logged in as DeliveryPartner
+[2026-04-02 20:26:33] member_id=12 action=LOGIN table=Sessions record_id=None | Divya Patel logged in as DeliveryPartner
+[2026-04-02 20:27:25] member_id=2 action=LOGIN table=Sessions record_id=None | Priya chowdary logged in as Customer
+[2026-04-02 20:34:54] member_id=21 action=LOGIN table=Sessions record_id=None | partner1 logged in as RestaurantOwner
+[2026-04-02 20:35:27] member_id=12 action=LOGIN table=Sessions record_id=None | Divya Patel logged in as DeliveryPartner
+[2026-04-02 20:35:57] member_id=2 action=LOGIN table=Sessions record_id=None | Priya chowdary logged in as Customer
+[2026-04-02 20:38:26] member_id=1 action=LOGIN table=Sessions record_id=None | Aarav Sharma logged in as Admin
+[2026-04-02 20:38:48] member_id=1 action=UPDATE table=member record_id=3 | Admin Aarav Sharma updated member_id=3 (role=Customer)
+[2026-04-02 20:39:49] member_id=1 action=UPDATE table=member record_id=6 | Admin Aarav Sharma updated member_id=6 (role=Customer)
+[2026-04-02 20:40:47] member_id=6 action=LOGIN table=Sessions record_id=None | Kavya sri logged in as Customer
+[2026-04-02 20:42:16] member_id=21 action=LOGIN table=Sessions record_id=None | partner1 logged in as RestaurantOwner
+[2026-04-02 20:42:38] member_id=22 action=LOGIN table=Sessions record_id=None | partner2 logged in as RestaurantOwner
+[2026-04-02 20:44:05] member_id=12 action=LOGIN table=Sessions record_id=None | Divya Patel logged in as DeliveryPartner
+[2026-04-02 20:57:07] member_id=3 action=LOGIN table=Sessions record_id=None | Rahul Verma logged in as Customer
+[2026-04-02 20:58:32] member_id=22 action=LOGIN table=Sessions record_id=None | partner2 logged in as RestaurantOwner
+[2026-04-02 21:00:28] member_id=15 action=LOGIN table=Sessions record_id=None | Kiran Babu logged in as DeliveryPartner
+[2026-04-02 21:07:00] member_id=12 action=LOGIN table=Sessions record_id=None | Divya Patel logged in as DeliveryPartner
+[2026-04-02 21:19:39] member_id=12 action=LOGIN table=Sessions record_id=None | Divya Patel logged in as DeliveryPartner
+[2026-04-02 21:19:47] member_id=21 action=LOGIN table=Sessions record_id=None | partner1 logged in as RestaurantOwner
+[2026-04-02 21:20:04] member_id=12 action=LOGIN table=Sessions record_id=None | Divya Patel logged in as DeliveryPartner
+[2026-04-02 21:21:36] member_id=12 action=LOGIN table=Sessions record_id=None | Divya Patel logged in as DeliveryPartner
+[2026-04-02 22:56:04] member_id=6 action=LOGIN table=Sessions record_id=None | Kavya sri logged in as Customer
+[2026-04-04 12:10:13] member_id=3 action=LOGIN table=Sessions record_id=None | Rahul Verma logged in as Customer
+[2026-04-04 12:13:52] member_id=3 action=LOGIN table=Sessions record_id=None | Rahul Verma logged in as Customer
